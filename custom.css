@@ -1,6 +1,11 @@
 .btn-group {
     padding: 0 0 5px 0;
 }
+.btn {
+	height: 50px;
+    padding: 0 0 5px 0;
+    white-space: normal;
+}
 
 .panel-title1 a {
     display: block;
